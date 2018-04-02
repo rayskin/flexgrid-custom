@@ -4,6 +4,10 @@
 // html example: <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></div>
 // *****************************************
 
+// This is temp.
+// Move to variables.scss
+// Placed here to prevent errors.
+$base-margin: 1.563rem; //25px
 
 .row {
 	display: flex;
